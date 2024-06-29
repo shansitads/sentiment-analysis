@@ -4,6 +4,8 @@
 
 Perform a thorough Exploratory Data Analysis of the dataset and report the final performance metrics for your approach. Suggest ways in which you can improve the model.
 
+View [solution code](./sentiment_analysis.ipynb)
+
 ## :pushpin: Exploration + Preprocessing Steps Followed
 
 **Exploration**:
@@ -34,7 +36,7 @@ Perform a thorough Exploratory Data Analysis of the dataset and report the final
 
 1. Bidirectional RNN(LSTM) with Embeddings
 
-2. Logistic Regression with TF-DIF Vectorization
+2. Logistic Regression with TF-IDF Vectorization
 
 ## :pushpin: Potential improvements
 
